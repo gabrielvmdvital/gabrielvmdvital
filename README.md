@@ -1,47 +1,44 @@
-### Eai Pessoal, tranquilo!? 👋
+### Hey everyone, how's it going!? 👋
 
-</br>
-Me chamo Gabriel Victor, sou um Desenvolvedor de Software 👨🏻‍💻
-</br
-</br>
-Nasci em Pernambuco, Brazil 🌎
-</br>
-Atualmente resido em Olinda/PE 📌
-</br>
-</br>
-</br>
-Sou Pós-Graduando em Engenharia de Software pelo CIn-UFPE 💻
-</br>
-</br>
-Sou Graduando em Engenharia da Computação pela UPE 💻
-</br>
-</br>
-Sou Bacharel em Engenharia Eletrônica pela UFPE 💻
-</br>
+<br/>
+My name is Gabriel Victor, I'm a Software Engineer with a strong mindset, focused on building scalable, maintainable and well-architected systems. I enjoy researching, studying system design, software architecture, engineering trade-offs and real-world problem solving. 👨🏻‍💻
+<br>
+<br>
 
-# Tecnologias⚡
+💻 **Software Engineer | Architecture-Oriented**
 
-Aqui abaixo listo algumas tecnologias que já trabalhei e trabalho atualmente:
+📚 Postgraduate student in **Software Engineering** – CIn UFPE / Motorola
 
-Backend: 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+🎓 I am an undergraduate in **Computer Engineering at @UFE**
+
+🎓 Bachelor's degree in **Electronic Engineering at @UFPE**
 
 
+## Professional Focus
+- Software Architecture & System Design  
+- Scalable backend and distributed systems  
+- Cross-team collaboration and technical leadership  
+- Quality, reliability and test-oriented engineering  
 
-Database:
-![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+I actively work with backend structuring, API design, modularization, and technical standards, supporting teams in building robust and scalable projects
 
+## Software Engineering & Web Backend
+[![My Skills](https://skillicons.dev/icons?i=java,python,cs,nodejs)](https://skillicons.dev)
 
+- RESTful APIs and service-oriented design
+- Java, Python, C# and Node.js for backend services
+- Python for scripting and automation
+- Clean Architecture & separation of concerns
+- Integration with databases and external systems
 
-Tools:
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
+## Mobile Engineering
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio)](https://skillicons.dev)
 
-IDEs:
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
+## DevOps, Cloud & Infrastructure
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,docker&theme=light)](https://skillicons.dev)
+
+## Data, Databases & Automation
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,mysql,selenium,cypress)](https://skillicons.dev)
+
+## Tools & Engineering Practices
+[![My Skills](https://skillicons.dev/icons?i=git,gitlab,figma,arduino&theme=light)](https://skillicons.dev)
