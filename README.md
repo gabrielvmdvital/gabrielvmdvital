@@ -28,6 +28,7 @@ I actively work with backend structuring, API design, modularization, and techni
 - RESTful APIs and service-oriented design
 - Java, Python, C# and Node.js for backend services
 - Python for scripting and automation
+- Python for Data Engineering, Data Analisys and Machine/Deep Learning
 - Clean Architecture & separation of concerns
 - Integration with databases and external systems
 
