@@ -1,7 +1,7 @@
 ### Hey everyone, how's it going!? 👋
 
 <br/>
-My name is Gabriel Victor, I'm a Software Engineer with a strong mindset, focused on building scalable, maintainable and well-architected systems. I enjoy researching, studying system design, software architecture, engineering trade-offs and real-world problem solving. 👨🏻‍💻
+My name is Gabriel Victor, I'm a Software Engineer with a strong mindset, focused on building scalable, maintainable and well-architected systems. I enjoy researching, studying system design, software architecture, machine and deep learning, engineering trade-offs and real-world problem solving. 👨🏻‍💻
 <br>
 <br>
 
