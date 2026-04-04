@@ -41,4 +41,4 @@ I actively work with backend structuring, API design, modularization, and techni
 [![My Skills](https://skillicons.dev/icons?i=py,postgres,mysql,selenium,cypress)](https://skillicons.dev)
 
 ## Tools & Engineering Practices
-[![My Skills](https://skillicons.dev/icons?i=git,gitlab,figma,arduino&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,gitlab,figma)](https://skillicons.dev)
